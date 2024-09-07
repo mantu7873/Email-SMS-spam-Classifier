@@ -59,7 +59,7 @@ Bag of words & TfidfVectorizer was used to transform text data into feature vect
 # Model Evaluation
 - Accuracy, precision, recall, and F1-score were calculated to evaluate the models.
 - Applied scaling and voting classifier to know the best performing model
-- The best-performing model was random forest classifier with Tfidf vectorizer
+- The best-performing model was random forest classifier with Tfidf vectorizer(accuracy 97% and precission 1)
 
  # Deployment
 The project is deployed using:
