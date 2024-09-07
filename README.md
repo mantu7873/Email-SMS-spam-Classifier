@@ -15,4 +15,4 @@ This repository contains an NLP-based Email Spam Classifier that detects whether
 - License
 
 # Project Overview
-This project aims to classify emails as either spam or ham (not spam) using Natural Language Processing (NLP) techniques. The model is trained on a dataset of labeled emails, and deployed as a web app on (render)[https://email-sms-spam-classifier-11.onrender.com/] for real-time classification.
+This project aims to classify emails as either spam or ham (not spam) using Natural Language Processing (NLP) techniques. The model is trained on a dataset of labeled emails, and deployed as a web app on [render][https://email-sms-spam-classifier-11.onrender.com/] for real-time classification.
